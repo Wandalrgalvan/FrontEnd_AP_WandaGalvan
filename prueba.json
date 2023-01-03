@@ -1,0 +1,46 @@
+[{
+    "nombre":"Romina",
+    "apellido": "Galvan",
+    "edad": 34,
+    "precio_asiento": 200,
+    "asiento":{
+        "numero": 18,
+        "letra":"R",
+        "cargador": false
+    },
+    "historial":[
+        {
+        "salida": "Tucumán",
+        "destino": "Purmamarca",
+        "fecha": "14/09/2014"
+    },
+    {
+        "salida": "Tucumán",
+        "destino": "Buenos Aires",
+        "fecha": "08/08/2012"
+    }
+]
+},
+{
+    "nombre":"Axel",
+    "apellido": "Galvan",
+    "edad": 15,
+    "precio_asiento": 200,
+    "asiento":{
+        "numero": 18,
+        "letra":"R",
+        "cargador": false
+    },
+    "historial":[
+        {
+        "salida": "Tucumán",
+        "destino": "Purmamarca",
+        "fecha": "14/09/2014"
+    },
+    {
+        "salida": "Tucumán",
+        "destino": "Buenos Aires",
+        "fecha": "08/08/2012"
+    }
+]
+}]
